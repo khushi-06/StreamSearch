@@ -1,9 +1,11 @@
 import React from 'react'
+import header from './component/header/header'
 
 const page = () => {
   return (
     <>
-    <h1>heelo</h1> 
+    {/* hwllo  */}
+    <Headers/>
     </>
   )
 }
